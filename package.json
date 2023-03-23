@@ -1,0 +1,16 @@
+{
+  "name": "cypress-express-mark",
+  "version": "1.0.0",
+  "description": "Projeto de testes de ponta a ponta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruna Lourencini",
+  "license": "ISC",
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.37.0",
+    "allure-commandline": "^2.21.0",
+    "cypress": "^12.5.1"
+  }
+}
